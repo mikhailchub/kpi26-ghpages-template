@@ -55,12 +55,12 @@ Agents working in this repository should follow these rules:
 - Root OpenAI-style skill entrypoint:
   - `SKILL.md`
 - Shared guidance:
-  - `references/storage-and-stack-selection.md`
-  - `references/sdr-template.md`
-  - `references/github-pages-deployment.md`
+  - `.agent/skills/requirements-to-github-pages/references/storage-and-stack-selection.md`
+  - `.agent/skills/requirements-to-github-pages/references/sdr-template.md`
+  - `.agent/skills/requirements-to-github-pages/references/github-pages-deployment.md`
 - Shared workflow templates:
-  - `assets/github-pages-static.yml`
-  - `assets/github-pages-node.yml`
+  - `.agent/skills/requirements-to-github-pages/assets/github-pages-static.yml`
+  - `.agent/skills/requirements-to-github-pages/assets/github-pages-node.yml`
 
 ## Expected workflow
 
